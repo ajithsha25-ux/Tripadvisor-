@@ -1,4 +1,3 @@
-# Tripadvisor- simple website
 # 🌍 Tripadvisor Clone
 
 A responsive front-end clone of the Tripadvisor website built using **HTML5 and CSS3**.  
